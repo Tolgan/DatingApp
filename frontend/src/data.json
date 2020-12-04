@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Karl",
+
+    "gender": "male"
+  },
+  {
+    "name": "Martin",
+
+    "gender": "male"
+  },
+  {
+    "name": "Emily",
+
+    "gender": "female"
+  },
+  {
+    "name": "Michael",
+
+    "gender": "male"
+  },
+  {
+    "name": "Dwight",
+
+    "gender": "male"
+  },
+  {
+    "name": "Jessica",
+
+    "gender": "female"
+  },
+  {
+    "name": "Alexandra",
+    "gender": "female"
+  }
+]
